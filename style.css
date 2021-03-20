@@ -1,0 +1,33 @@
+body {
+    background-color: #fff;
+}
+img {
+    
+    margin-left: 535px;
+    padding-top: 170px;
+}
+
+#navbar {
+    list-style-type: none;
+    margin-top: -250px;
+    padding: 0px;
+    overflow: hidden;
+   
+    
+}
+
+li{ 
+    display: inline;
+    text-align: start;
+    text-decoration: none;
+}
+.righttop{
+    
+}
+.lefttop{
+    padding-left: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80%;
+    margin-right: 10px;
+    padding-right: 10px;
+}
